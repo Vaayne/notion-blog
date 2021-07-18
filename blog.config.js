@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: 'Vaayne‘s Tea House',
+  author: 'Vaayne',
+  email: 'vaayne@outlook.com',
+  link: 'https://blog.theboys.tech',
+  description: '欢迎来 Vaayne 的茶馆闲聊',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -18,7 +18,7 @@ const BLOG = {
   autoCollapsedNavBar: false, // the automatically collapsed navigation bar
   socialLink: 'https://twitter.com/craigaryhart',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['Blog', 'Vaayne', 'Notion'， 'TheBoys'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
